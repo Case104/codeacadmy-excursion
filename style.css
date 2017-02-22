@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	font-family: Verdana;
+	color: white;
+	text-align: center;
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+.lead {
+	font-size: 50px;
+}
+
+.download-link {
+	color: aquamarine;
+	font-size: 16px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.one-liner {
+	font-size: 42px;
+	font-weight: 300;
+}
+
+.grey-liner {
+	font-size: 21;
+	color: gray;
+}
+
+.phone {
+	margin-top: 25px;
+}
+
+.text-right {
+	text-align: right;
+	margin-right: 20px;
+}
